@@ -16,7 +16,8 @@
             2. As he correctly answers question number 5, the minimum reward becomes Rs. 10,000 (First level)
             3. As he correctly answers question number 11, the minimum reward becomes Rs. 3,20,000 (Second Level)
         * If the answer is wrong, then the user will return with the minimum reward.
-        * If the user inputs "lifeline" (case insensitive) as input, then hide two incorrect options and prompt again for the input of answer.
+        * If the user inputs "lifeline" (case insensitive) as input, then hide two incorrect options and 
+	  prompt again for the input of answer.
         
         * NOTE:
             50-50 lifeline can be used ONLY ONCE.
@@ -31,14 +32,14 @@
   * Read the comments inside kbc function and read the code, to understand you can also use a debugger.
   * Modify the code accordingly.
   * Fix the isAnswerCorrect function to return true whenever the answer is right or false otherwise
-  * 
+ 
   ### Task 2 (LOOPING)
   
   When you run this program it will only take the user's input once and then it will stop
   * You have to take multiple inputs from the user, use a loop for this that iterates over a list of all 15 questions.
   * Statements like "welcome to the game" should only be printed once, take note of this. You can add statements if you want
   
-  ### Task 3 (SET MINIMUM REWARD ACCORDING TO THE Level(Padaav))
+  ### Task 3 (SET MINIMUM REWARD ACCORDING TO THE Level (Padaav))
   
   If the user is:
 
@@ -59,10 +60,4 @@
 	instead of the minimum amount.
  
   ```
-  
-  
- 
-
-### Made with ❤ by Jayniti Kumari
-
-
+                                              ### Made with ❤ by Jayniti Kumari

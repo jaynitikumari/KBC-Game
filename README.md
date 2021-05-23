@@ -5,6 +5,7 @@
   In this project we will code Kaun Banega Crorepati. The idea behind is to make ourselves familiar with python language. 
   
    Rules to play KBC:
+   
         * The user will have 15 rounds
         * In each round, user will get a question
         * For each question, there are 4 choices out of which ONLY one is correct.

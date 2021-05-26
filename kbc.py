@@ -59,7 +59,7 @@ def kbc():
     #  Display a welcome message only once to the user at the start of the game.
     welcome=False
     if not welcome:
-        print('Welcome to Kaun Banega Devsnest Champion Season 1')
+        print('Welcome to Kaun Banega Carorepati')
         welcome=True
     
     #  For each question, display the prize won until now and available life line.

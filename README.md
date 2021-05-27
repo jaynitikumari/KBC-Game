@@ -58,6 +58,7 @@
   
   If the user inputs "quit" (case insensitive) as input, then user returns with the amount he/she has won until now,
 	instead of the minimum amount.
+	
+	
  
-  ```
-                                              ### Made with ❤ by Jayniti Kumari
+  ###                                           	Made with ❤ by Jayniti Kumari
